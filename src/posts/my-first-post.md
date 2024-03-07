@@ -58,3 +58,5 @@ You may be using [Markdown Live Preview](https://markdownlivepreview.com/).
 ## Inline code
 
 This web site is using `markedjs/marked`.
+
+![](/static/img/neom-el92hmat91o-unsplash.jpg "test")
